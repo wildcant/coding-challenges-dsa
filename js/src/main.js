@@ -1,4 +1,4 @@
-import { test } from './beginner/middle_node.js'
+import { test } from './arrays/squaresSortedArray.js'
 
 export function main() {
   test()
